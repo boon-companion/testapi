@@ -20,7 +20,7 @@
      "id": 3,
       "title": "Album 3",
       "subTitle": "album 3 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/350/350",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -28,7 +28,7 @@
      "id": 4,
       "title": "Album 4",
       "subTitle": "album 4 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/400/400",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -36,7 +36,7 @@
      "id": 5,
       "title": "Album 5",
       "subTitle": "album 5 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/320/320",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -44,7 +44,7 @@
      "id": 6,
       "title": "Album 6",
       "subTitle": "album 6 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/420/420",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -52,7 +52,7 @@
      "id": 7,
       "title": "Album 7",
       "subTitle": "album 7 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/390/420",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -60,7 +60,7 @@
      "id": 8,
       "title": "Album 8",
       "subTitle": "album 8 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/410/400",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -68,7 +68,7 @@
      "id": 9,
       "title": "Album 9",
       "subTitle": "album 9 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/500/500",
       "description": "description textseee ee",
       "addedInFavorite": true
     },
@@ -76,7 +76,7 @@
      "id": 10,
       "title": "Album 10",
       "subTitle": "album 10 subtitle",
-      "thumbnail": "http://placekitten.com/300/300",
+      "thumbnail": "http://placekitten.com/520/540",
       "description": "description textseee ee",
       "addedInFavorite": true
     }
